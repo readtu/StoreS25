@@ -2,9 +2,13 @@ header{
     background-color:blue;
     color:white;
 }
-h2{
+#toolHeader,#clothesHeader{
     text-align: center;
 }
-div{
+#home{
+    text-align: right;
+    color:white;
+}
+#tools{
     text-align: center;
 }
