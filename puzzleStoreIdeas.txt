@@ -1,15 +1,17 @@
 Store: Puzzle Store
 
-1. Twist puzzles
+1. Twist puzzles (Kyle)
 	-Different types of Rubik's cubes?
-2. Logic puzzle books
+2. Logic puzzle books (Zaji)
 	-Follow the Rules puzzles
 	-Crosswords
 	-Finding words inside of words (like a grid of letters -- how many words can you find?)
 	-
-3. Riddle merch?
-4. (optional)
+3. Disassembly Puzzles (Kendrick)
 
+Each department will have 3 items.
+
+We also need one home page.
 
 
 
