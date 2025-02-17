@@ -1,0 +1,20 @@
+.product {
+    border: 2px solid lightgray;
+    padding:10px;
+}
+.price{
+    font-weight: bold;
+    display:block;
+    margin-top: 8px;
+}
+
+.addToCart{
+    background:#246402 !important;
+    padding:12px;
+    color:white;
+    font-weight: bold;
+    width:80%;
+    margin:auto;
+    margin-top:8px;
+    display:block;
+}
