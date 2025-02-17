@@ -2,3 +2,31 @@ img {
     width: 25%;
     height: 25%;
 }
+
+@keyframes colorChange {
+    0% { background-color: red; }
+    5% { background-color: green; }
+    10% { background-color: blue; }
+    15% { background-color: yellow; }
+    20% { background-color: orange; }
+    25% { background-color: pink; }
+    30% { background-color: brown; }
+    35% { background-color: tan; }
+    40% { background-color: teal; }
+    45% { background-color: purple; }
+    50% { background-color: black; }
+    55% { background-color: white; }
+    60% { background-color: gray; }
+    65% { background-color: rebeccapurple; }
+    70% { background-color: green; }
+    75% { background-color: lightsalmon; }
+    80% { background-color: goldenrod; }
+    85% { background-color: powderblue; }
+    90% { background-color: palevioletred; }
+    95% { background-color: gainsboro; }
+    100% { background-color: red; }
+}
+
+body {
+    animation: colorChange 16s infinite;
+}
