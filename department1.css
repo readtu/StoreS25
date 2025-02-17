@@ -1,0 +1,12 @@
+/**/
+/*ID's*/
+body {
+    margin: auto;
+}
+
+#MenuBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid black;
+}
