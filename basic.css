@@ -35,10 +35,23 @@ body {
   color: black;
 }
 
+.row {
+    height:100%;
+    border-collapse:collapse;
+    display : table;
+}
+
 /* Create three equal columns that float next to each other */
 .column {
   float: left;
   width: 33.33%;
+  height: 100%;
+  display: table;
+  border-collapse: collapse;
+}
+
+.column img {
+  width: 100%;
 }
 
 /* Clear floats after the columns */
@@ -46,6 +59,13 @@ body {
   content: "";
   display: table;
   clear: both;
+}
+
+/* Set tags to bottom of container */
+.foot {
+  display: table-row;
+  vertical-align: bottom;
+  height: 1px;
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other on smaller screens (600px wide or less) */
