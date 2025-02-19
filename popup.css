@@ -1,0 +1,60 @@
+.buynowpopup {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 150px;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 1;
+    transition: opacity 0.5s ease-in-out;
+    padding-top: 25px; /* Add space at the top for the X button */
+}
+
+.hide {
+    opacity: 0;
+}
+
+.show {
+    opacity: 1;
+}
+
+.buynowbutton {
+    background-color: #ff6700;
+    color: white;
+    border: none;
+    padding: 12px 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    transition: background-color 0.3s;
+    width: 100%;
+    text-align: center;
+}
+
+.buynowbutton:hover {
+    background-color: #e65c00;
+}
+
+.closebutton {
+    background: none;
+    border: none;
+    font-size: 14px;
+    cursor: pointer;
+    color: #777;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    z-index: 2; 
+}
+
+.closebutton:hover {
+    color: black;
+}
