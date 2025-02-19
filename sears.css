@@ -2,7 +2,7 @@ header{
     background-color:blue;
     color:white;
 }
-#toolHeader,#clothesHeader{
+#toolHeader,#clothesHeader,#toysHeader,#miscellaneousHeader{
     text-align: center;
 }
 #home{
