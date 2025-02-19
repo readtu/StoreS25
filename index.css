@@ -28,6 +28,7 @@
 #main {
     text-align: center;
     font-size: 50px;
+    color: white;
 }
 #shoes {
     justify-content: space-around;
@@ -71,6 +72,10 @@ img:hover{
     transform: scale(1.05); 
     box-shadow: 12px 12px 25px rgba(0, 0, 0, 0.2), 
                 -7px -7px 20px rgba(255, 255, 255, 0.8); 
+}
+#indiv img {
+    max-width: 100%;
+    height: auto;
 }
 
 #des {
