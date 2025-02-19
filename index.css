@@ -1,6 +1,13 @@
+.department {
+    border: 2px solid lightgray;
+    padding:20px;
+    margin:auto;
+    
+}
 .product {
     border: 2px solid lightgray;
     padding:10px;
+    margin:auto;
 }
 .price{
     font-weight: bold;
