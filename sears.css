@@ -9,6 +9,15 @@ header{
     text-align: right;
     color:white;
 }
-#tools{
+#tool{
+    text-align: center;
+}
+#toy{
+    text-align: center;
+}
+#clothes{
+    text-align: center;
+}
+#miscellaneous{
     text-align: center;
 }
