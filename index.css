@@ -8,6 +8,7 @@
     border: 2px solid lightgray;
     padding:10px;
     margin:auto;
+    margin-bottom: 10px;
 }
 .price{
     font-weight: bold;
