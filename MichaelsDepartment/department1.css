@@ -1,0 +1,28 @@
+/**/
+/*ID's*/
+body {
+    margin: auto;
+}
+
+#MenuBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: auto;
+    width: 70%;
+    margin-top: 50px;
+}
+
+#gputable {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+th {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
